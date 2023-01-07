@@ -12,8 +12,8 @@ In the terminal navigate to the directory that contains the downloaded files and
 
 Once jupyter notebook is open select a notebook and run it.
 
-Structure of the layout:
-In addition to the research into the topic documented within the Jupyter notebook pages extensive research was also done into how to best write and format the code. Particular attention was given to the SOLID principles of coding and the clean code practices. Refer to references page for sources.
-
-Within this repository you should find:
+Within this repository you will find the following folders:
+- Assessment: Containing the jupyter notebook on normal distribution 
+- Regular Tasks: Containing the Tasks from topics 1-5. 
+- ReadMe file detailing how to run the project. 
 
